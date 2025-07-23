@@ -1,3 +1,4 @@
+Pizza Sales Performance Dashboard
  🍕 Pizza Sales Performance Dashboard
 
 A complete end-to-end SQL + Power BI dashboard designed to explore pizza sales trends, product performance, and size/category revenue contributions using realistic restaurant data.
@@ -102,17 +103,7 @@ SQL file contains:
 - ✅ Revenue by Pizza Size  
 - ✅ Daily Order Counts
 
-📁 File: [`Pizza SQL Project.sql`]()
+📁 File: [`Pizza SQL Project.sql`](https://github.com/Prajwalks1124/Pizza-Sales-Performance-Dashboard/blob/main/Pizza%20SQL%20Project.sql)
 
-Example query from file:
-
-```sql
-SELECT 
-    pt.name AS Pizza_name, SUM(od.quantity) AS total_sold
-FROM
-    pizzas AS p
-JOIN order_details AS od ON od.pizza_id = p.pizza_id
-JOIN pizza_types AS pt ON p.pizza_type_id = pt.pizza_type_id
-GROUP BY Pizza_name
-ORDER BY total_sold DESC
-LIMIT 10;
+## Screenshots/Demos
+Show what the dashboard looks like. - Alt text Example: 
