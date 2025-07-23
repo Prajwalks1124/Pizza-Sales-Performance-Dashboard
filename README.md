@@ -1,5 +1,4 @@
-Pizza Sales Performance Dashboard
- 🍕 Pizza Sales Performance Dashboard
+## 🍕 Pizza Sales Performance Dashboard
 
 A complete end-to-end SQL + Power BI dashboard designed to explore pizza sales trends, product performance, and size/category revenue contributions using realistic restaurant data.
 
@@ -107,3 +106,5 @@ SQL file contains:
 
 ## Screenshots/Demos
 Show what the dashboard looks like. - Alt text Example: 
+📁 File:['Pizza Sales Performance Dashboard']()
+Dashboard Looks Like ()
