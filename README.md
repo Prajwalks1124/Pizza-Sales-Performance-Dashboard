@@ -107,4 +107,6 @@ SQL file contains:
 ## Screenshots/Demos
 Show what the dashboard looks like. - Alt text Example: 
 📁 File:['Pizza Sales Performance Dashboard'](https://github.com/Prajwalks1124/Pizza-Sales-Performance-Dashboard/blob/main/Pizza%20Sales%20Performance%20Dashboard.pbix)
-Dashboard Looks Like (https://github.com/Prajwalks1124/Pizza-Sales-Performance-Dashboard/blob/main/Pizza%20Sales%20Dashboard.png)
+
+Dashboard Looks Like <img width="1020" height="511" alt="Pizza Sales Dashboard" src="https://github.com/user-attachments/assets/6cfadb19-1742-47f6-ab2b-631c643ab0bb" />
+
